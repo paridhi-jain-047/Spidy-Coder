@@ -1,5 +1,7 @@
 ### Hey, I'm Paridhi Jain! 👋
 
+<img src=https://drive.google.com/file/d/1Kxt-ARstW9Dsc3ApeVRvY-vNj9YvhFQh/view?usp=sharing >
+
 <!--
 **Spidy-Coder/Spidy-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
