@@ -12,7 +12,7 @@ My name is Paridhi Jain and I'm a final year Ungergraduate student persuing my B
 
 Well, I think a developer has to learn new skills every single day of his/her life. And It is more important to practice them rather than just learning endlessly. 
 
-<img src="https://drive.google.com/file/d/1dubRlAbZljISA7oi9159bES5sV8b-Xgh/view?usp=sharing"/>
+<img src="images/IMG_20210614_184422.jpg"/>
 
 
 
