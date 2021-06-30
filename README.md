@@ -8,6 +8,8 @@ My name is Paridhi Jain and I'm a final year Ungergraduate student persuing my B
 
 ✔ I have worked as an Executive Counsellor at <b>Careers360.</b>
 
+My major degree is E.C.E but still found Software developement as my passion and working on it. Hope one day I will make my parents proud on my career switch decision.
+
 ## What am I learning right now?
 
 Well, I think a developer has to learn new skills every single day of his/her life. And It is more important to practice them rather than just learning endlessly. 
@@ -21,7 +23,6 @@ Well, I think a developer has to learn new skills every single day of his/her li
 <h3 align="center">CAN YOU TOO RELATE?</h3>
 <h5 align="center">You will get challenges each and every day but when you come out of it, nothing is better than that 6 hour long still satisfying sleep.</h5>
 <img src="images/IMG_20210614_184422.jpg"/>
-
 
 
 
