@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **18ec.paridhijain@gmail.com**
 
-- 📄 Know about my experiences through my [resume](https://drive.google.com/file/d/1Wya-XaqxqWLmLTxam9M-L2FJder9yT23/view?usp=sharing)
+- 📄 Know about my experiences through my [resume](https://drive.google.com/file/d/1szsRv7AnEndubP7B7SRfS97hjqJetade/view?usp=sharing)
 
 - ⚡ Fun fact **Nothing, Just need Coffee.**
 
