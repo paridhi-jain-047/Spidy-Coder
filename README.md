@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paridhi Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **full stack web development**
+- 🔭 I’m currently exploring and working on **MERN stack web development**
 
 - 🌱 I’m currently learning **OpenCV with python**
 
@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](portfolio)
 
-- 💬 Ask me about **react, & machine learning topics**
+- 💬 Ask me about **react framework, & machine learning topics**
 
 - 📫 How to reach me **18ec.paridhijain@gmail.com**
 
-- 📄 Know about my experiences through my [resume](https://drive.google.com/file/d/1szsRv7AnEndubP7B7SRfS97hjqJetade/view?usp=sharing)
+- 📄 Know about my experiences through my updated [resume](https://drive.google.com/file/d/1szsRv7AnEndubP7B7SRfS97hjqJetade/view?usp=sharing)
 
 - ⚡ Fun fact **Nothing, Just need Coffee.**
 
