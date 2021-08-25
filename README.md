@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paridhi Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
 - 🔭 I’m currently exploring and working on **MERN stack web development**
 
 - 🌱 I’m currently learning **OpenCV with python**
@@ -38,3 +39,8 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spidy-coder&show_icons=true&locale=en" alt="spidy-coder" /></p>
+
+## <h4 align="center">Let's Boost Your Motivation</h4>
+
+<img src="images/Landscape Skies Photo Collage YouTube Channel Art (1).png" align="center" height="400" width="1150"/>
+
