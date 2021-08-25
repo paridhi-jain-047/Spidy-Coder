@@ -40,7 +40,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spidy-coder&show_icons=true&locale=en" alt="spidy-coder" /></p>
 
-## <h4 align="center">Let's Boost Your Motivation</h4>
+<h2 align="center">Let's Boost Your Motivation</h2>
 
 <img src="images/Landscape Skies Photo Collage YouTube Channel Art (1).png" align="center" height="400" width="1150"/>
 
