@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **18ec.paridhijain@gmail.com**
 
-- 📄 Know about my experiences through my updated [resume](https://drive.google.com/file/d/1szsRv7AnEndubP7B7SRfS97hjqJetade/view?usp=sharing)
+- 📄 Know about my experiences through my updated [resume](https://drive.google.com/file/d/18W5LBcEJXDHo7vqRB5w7jKde4e_0yuGn/view?usp=sharing)
 
 - ⚡ Fun fact **Nothing, Just need Coffee.**
 
