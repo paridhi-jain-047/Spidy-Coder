@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🔭 I’m currently exploring and working on **MERN stack web development**
+- 🔭 I’m currently exploring and working on **integrating ML with frontend.**
 
-- 🌱 I’m currently learning **OpenCV with python**
+- 🌱 I’m currently learning **OpenCV with python.**
 
-- 👯 I’m looking to collaborate on **frontend projects**
+- 👯 I’m looking to collaborate on **frontend projects.**
 
 - 👨‍💻 All of my projects are available at [portfolio](portfolio)
 
