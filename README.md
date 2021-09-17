@@ -24,6 +24,7 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/18ec_paridhijain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/18ec_paridhijain" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/user8820t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user8820t/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/18ecparidhijain/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/18ecparidhijain/practice/" height="30" width="40" /></a>
+<a href="https://twitter.com/paridhi_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paridhi_18" height="30" width="40" /></a>
 <a href="https://medium.com/@18ec.paridhijain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@18ec.paridhijain" height="30" width="40" /></a>
 </p>
 
